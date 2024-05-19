@@ -4,7 +4,7 @@
 #https://imageai.readthedocs.io/en/latest/
 #https://www.geeksforgeeks.org/how-to-iterate-over-files-in-directory-using-python/
 #https://imageai.readthedocs.io/en/latest/detection/
-# importing libraries
+# importing libraries d
 from imageai.Detection import ObjectDetection
 import os
 
